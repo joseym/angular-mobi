@@ -4,6 +4,8 @@
 
 ## Usage
 
+Directive explanations and usage information can be found [here](https://github.com/joseym/angular-mobi/wiki/Directives)
+
 ### Requirements
 
 * **AngularJS v1.0.0+** is currently required.
