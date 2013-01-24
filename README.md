@@ -7,7 +7,7 @@
 ### Requirements
 
 * **AngularJS v1.0.0+** is currently required.
-* **(QuoJS)[https://github.com/soyjavi/quojs]** for mobile gesture support
+* **[QuoJS](https://github.com/soyjavi/quojs)** for mobile gesture support
 
 ## Installation
 
